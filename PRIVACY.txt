@@ -2,6 +2,6 @@
        2) How can users contact the developer(s)
        ---------------------------
        1) We collect the following:
-       Nothing Personal, just Server Info.
+       Nothing Personal, just Server Info (Server Name, Server Members, Roles, etc.).
        ---------------------------
        2) Through the bot itself, there's a Support Server command, and that will send a link to the Support Server, there is where the Developer(s) of Pypurpose Reside(s).
